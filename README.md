@@ -87,7 +87,7 @@ Writing clean code in C++ involves adhering to certain conventions and best prac
   - Use exceptions for error handling and avoid using return codes.
   - Be specific with exception handling and avoid catching generic exceptions.
 
-## Design Patterns
+## [Design Patterns](https://refactoring.guru/es/design-patterns)
 
 This section covers various design patterns, including their definitions, use cases, and implementation examples.
 
@@ -136,7 +136,8 @@ A collection of best practices for software development, including version contr
 A curated list of books, articles, and online courses that provide further reading and learning opportunities on the topics covered in this repository.
 
 - [Clean Code in Python](https://www.syntonize.com/codigo-limpio-en-python/) 
-- [Clean Code in C++](https://dev.to/fynio/codigo-limpio-capitulo-1-codigo-elegante-2hdg) 
+- [Clean Code in C++](https://dev.to/fynio/codigo-limpio-capitulo-1-codigo-elegante-2hdg)
+- [Design Patterns](https://refactoring.guru/es/design-patterns)
 
 Feel free to contribute by submitting pull requests or opening issues. Let's craft some quality code together!
 
